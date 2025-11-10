@@ -34,6 +34,7 @@ model Event {
   priceTiers    PriceTier[]
   orders        Order[]
   addons        EventAddon[]
+  tickets       Ticket[]
 }
 
 model PriceTier {
