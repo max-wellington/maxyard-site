@@ -27,7 +27,8 @@
     "resend": "^4.0.0",
     "stripe": "^16.6.0",
     "zod": "^3.23.8",
-    "bcryptjs": "^2.4.3"
+    "bcryptjs": "^2.4.3",
+    "twilio": "^4.23.0"
   },
   "devDependencies": {
     "typescript": "^5",
