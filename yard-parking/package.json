@@ -40,7 +40,8 @@
     "eslint-config-next": "16.0.1",
     "prisma": "^5.22.0",
     "tsx": "^4.15.7",
-    "@netlify/plugin-nextjs": "^5.8.0"
+    "@netlify/plugin-nextjs": "^5.8.0",
+    "@types/bcryptjs": "^2.4.6"
   }
 ,
   "prisma": {
