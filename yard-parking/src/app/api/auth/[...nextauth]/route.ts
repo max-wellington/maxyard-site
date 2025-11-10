@@ -1,2 +1,5 @@
-export { authHandlers as GET, authHandlers as POST } from '@/lib/auth';
+import { authHandlers } from '@/lib/auth';
+
+export const GET = authHandlers.GET;
+export const POST = authHandlers.POST;
 
